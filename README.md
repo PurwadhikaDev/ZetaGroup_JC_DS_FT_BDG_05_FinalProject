@@ -4,7 +4,7 @@
 1. Introduction
 This project applies machine learning techniques to assist Human Resources (HR) departments in making data-driven promotion decisions. By analyzing historical employee data and promotion trends, the model predicts which employees are likely to be suitable for promotion, offering an objective supplement to traditional performance evaluation processes.
 
-2. the needs to use our model
+2. the need to use our model
 Promotion decisions are critical to employee satisfaction, retention, and organizational growth. However, these decisions are often subjective and prone to bias. Key challenges include:
 
 - Inconsistent performance reviews
@@ -14,6 +14,7 @@ Promotion decisions are critical to employee satisfaction, retention, and organi
 - Lack of standardized promotion criteria
 
 - Implementing a machine learning model can mitigate these challenges by identifying patterns and ensuring fair, consistent decision-making based on objective data.
+
 
 3. Stakeholders
 The primary stakeholders of this project include:
@@ -26,6 +27,7 @@ The primary stakeholders of this project include:
 
 - Data Science Team: Responsible for building, validating, and maintaining the model
 
+
 4. Goals
 Build a machine learning model to predict promotion eligibility by considering:
 
@@ -34,6 +36,7 @@ Build a machine learning model to predict promotion eligibility by considering:
 - Provide actionable insights for HR and management teams
 
 - Reduce the impact of bias and subjective judgment
+
 
 5. Effects of Model Implementation
 The successful deployment of this model can result in:
